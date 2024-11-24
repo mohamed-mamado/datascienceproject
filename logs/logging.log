@@ -105,3 +105,70 @@ x==========x]
 [2024-11-24 03:45:38,059: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
 
 x==========x]
+[2024-11-24 03:57:18,093: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-24 03:57:18,095: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-24 03:57:18,098: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-11-24 03:57:18,099: INFO: common: created directory at: artifacts]
+[2024-11-24 03:57:18,101: INFO: common: created directory at: artifacts/data_transformation]
+[2024-11-24 03:57:18,185: INFO: 741865018: Splited data into training and test sets]
+[2024-11-24 03:57:18,186: INFO: 741865018: (1199, 12)]
+[2024-11-24 03:57:18,188: INFO: 741865018: (400, 12)]
+[2024-11-24 13:19:35,872: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-11-24 13:19:35,882: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-24 13:19:35,887: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-24 13:19:35,894: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-11-24 13:19:35,895: INFO: common: created directory at: artifacts]
+[2024-11-24 13:19:35,896: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-11-24 13:19:35,897: INFO: data_ingestion: File already exists]
+[2024-11-24 13:19:35,981: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2024-11-24 13:19:35,981: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-11-24 13:19:35,985: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-24 13:19:35,986: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-24 13:19:35,989: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-11-24 13:19:35,990: INFO: common: created directory at: artifacts]
+[2024-11-24 13:19:35,990: INFO: common: created directory at: artifacts/data_validation]
+[2024-11-24 13:19:36,007: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-11-24 13:19:36,008: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-11-24 13:19:36,017: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-24 13:19:36,019: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-24 13:19:36,021: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-11-24 13:19:36,022: INFO: common: created directory at: artifacts]
+[2024-11-24 13:19:36,023: INFO: common: created directory at: artifacts/data_transformation]
+[2024-11-24 13:19:36,023: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-11-24 13:20:51,006: INFO: main: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2024-11-24 13:20:51,011: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-24 13:20:51,012: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-24 13:20:51,014: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-11-24 13:20:51,016: INFO: common: created directory at: artifacts]
+[2024-11-24 13:20:51,017: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-11-24 13:20:51,017: INFO: data_ingestion: File already exists]
+[2024-11-24 13:20:51,021: INFO: main: >>>>>> stage Data Ingestion Stage completed <<<<<<
+
+x==========x]
+[2024-11-24 13:20:51,021: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-11-24 13:20:51,028: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-24 13:20:51,030: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-24 13:20:51,034: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-11-24 13:20:51,035: INFO: common: created directory at: artifacts]
+[2024-11-24 13:20:51,036: INFO: common: created directory at: artifacts/data_validation]
+[2024-11-24 13:20:51,060: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-11-24 13:20:51,061: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-11-24 13:20:51,068: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-11-24 13:20:51,069: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-11-24 13:20:51,073: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-11-24 13:20:51,074: INFO: common: created directory at: artifacts]
+[2024-11-24 13:20:51,075: INFO: common: created directory at: artifacts/data_transformation]
+[2024-11-24 13:20:51,112: INFO: data_transformation: Splited data into training and test sets]
+[2024-11-24 13:20:51,112: INFO: data_transformation: (1199, 12)]
+[2024-11-24 13:20:51,112: INFO: data_transformation: (400, 12)]
+[2024-11-24 13:20:51,113: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
